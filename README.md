@@ -12,7 +12,7 @@ Dynamic content management
 Tech Stack
 Frontend: HTML, CSS, JavaScript
 
-Backend: (Specify, e.g., Node.js, Python Flask, etc.)
+Backend: (Specify, e.g., Node.js, etc...)
 
 
 Getting Started
