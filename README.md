@@ -19,7 +19,7 @@ Getting Started
 To run locally:
 
 bash
-git clone https://github.com/Saikat-Hazra/Porting-Myself.git
+git clone https://github.com/Saikat-Hazra/Port-Myself.git
 cd Porting-Myself
 # If using Node.js
 npm install
